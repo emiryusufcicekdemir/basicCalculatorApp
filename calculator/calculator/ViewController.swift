@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
 //  calculator
-//
-//  Created by Emir Cicekdemir on 11/26/24.
+//  Created by Emir Cicekdemir 
 //
 import UIKit
 
